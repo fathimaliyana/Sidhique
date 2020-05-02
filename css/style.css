@@ -54,7 +54,7 @@ body a{
 	min-height: 750px;
 }
 .top-nav ul li a{
-	color: black;
+	color: rgb(252, 252, 252);
 	padding: 0.2em 1.5em;
 	font-size: 0.9em;
 	font-weight: 400;
@@ -64,12 +64,12 @@ body a{
 }
 .top-nav ul li.active a,
 .top-nav ul li a:hover{
-	color:rgb(0, 0, 0);
+	color:rgb(57, 58, 50);
 }
 .top-nav ul li.active span{
 	width: 60px;
 	height: 3px;
-	background: rgb(2, 2, 2);
+	background: rgb(247, 247, 247);
 	display: block;
 	text-align: center;
 	margin: 0 auto;
