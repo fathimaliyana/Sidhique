@@ -222,7 +222,7 @@ a.contactme:hover{
 .aboutus{
 	padding: 3em 0;
 }
-.aboutus h2{
+.aboutus h1{
 	font-size:2em;
 	color: #333333;
 	font-weight: 900;
@@ -419,7 +419,7 @@ ul.project-share{
 .contact{
 	padding: 2em 0;
 }
-.contact h2{
+.contact h1{
 	font-size: 2em;
 	color: #333333;
 	font-weight: 900;
